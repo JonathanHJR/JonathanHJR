@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on the [freeCodeCamp curriculum](https://www.freecodecamp.org/JonathanR)
 
-- Reach me at **jingruitw1@hotmail.com**
+- 📫 Reach me at **jingruitw1@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

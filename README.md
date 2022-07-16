@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)]
+![MasterHead](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
 <h3 align="center">Just a casual learning object-oriented programming as a hobby.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"]

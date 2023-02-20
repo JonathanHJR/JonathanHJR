@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanhjr&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanhjr" /> </p>
 
-- 🔭 I’m currently working on the [freeCodeCamp curriculum](https://www.freecodecamp.org/JonathanR)
+- 🔭 I’m currently working on the [freeCodeCamp curriculum](https://www.freecodecamp.org/JonathanR) and [LearnCpp tutorial](https://www.learncpp.com)
 
 - 📫 Reach me at **jingruitw1@hotmail.com**
 

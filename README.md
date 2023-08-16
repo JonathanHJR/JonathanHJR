@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on the [freeCodeCamp curriculum](https://www.freecodecamp.org/JonathanR) and [LearnCpp tutorial](https://www.learncpp.com)
 
-- 📫 Reach me at **jingruitw1@hotmail.com**
+- 📫 Reach me at **123456@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
